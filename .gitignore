@@ -1,0 +1,23 @@
+# Arquivos e diretórios gerados pelo NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.mvn/
+target/
+
+# Logs
+*.log
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos Java gerados automaticamente
+*.class
+
+# Outros arquivos desnecessários
+*.iml
+.idea/
+*.form
